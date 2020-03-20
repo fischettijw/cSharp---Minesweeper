@@ -1,4 +1,4 @@
-﻿namespace cSharp___Minesweeper
+﻿namespace cSharpMinesweeper
 {
     partial class FrmMinesweeper
     {

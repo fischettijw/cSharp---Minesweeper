@@ -53,6 +53,7 @@
     <Compile Include="FrmMinesweeper.Designer.cs">
       <DependentUpon>FrmMinesweeper.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameBoard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmMinesweeper.resx">

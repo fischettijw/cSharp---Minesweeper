@@ -8,12 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cSharp___Minesweeper
+namespace cSharpMinesweeper
 {
     public partial class FrmMinesweeper : Form
     {
-            static int clientWidth = 600;
-            static int clientHeight = 600;
+        static int clientWidth = 600;
+        static int clientHeight = 600;
 
         public FrmMinesweeper()
         {
