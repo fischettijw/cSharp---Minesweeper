@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace cSharp___Minesweeper
 {
-    public partial class Form1 : Form
+    public partial class FrmMinesweeper : Form
     {
-        public Form1()
+        public FrmMinesweeper()
         {
             InitializeComponent();
+        }
+
+        private void FrmMinesweeper_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
